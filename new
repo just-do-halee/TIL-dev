@@ -1,0 +1,10 @@
+root=${0%/*}
+pre_path=$root/$(date +'%Y/%m%d')
+if [ ! -d "$pre_path" ]; then
+    mkdir $pre_path
+    cp $root/TEMPLATE.md $pre_path/README.md
+    code $pre_path
+    echo "$pre_path is created."
+else
+    echo "$pre_path already exists."
+fi
