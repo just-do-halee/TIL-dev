@@ -10,3 +10,4 @@
 - [`09-02`](./2022/0902/README.md) : OS::Basic::{ OSType, Process, Scheduler, Thread, .. }
 - [`09-03`](./2022/0903/README.md) : Mindset, Rust::Toolchain::{ Target, ASM }, Hardware, OS::Basic::{ Time, Scheduler, .. }
 - [`09-04`](./2022/0904/README.md) : Rust::Thread::{ Channel, .. }, OS::Basic::{ Process, Thread }, Tools, ..
+- [`09-05`](./2022/0905/README.md) : Rust::Thread::Channel
