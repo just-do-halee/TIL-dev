@@ -46,7 +46,7 @@
 
 <br>
 
-- ::ETC
+- ETC
 
   - Foo.
   - Bar.
