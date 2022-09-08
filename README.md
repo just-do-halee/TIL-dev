@@ -13,3 +13,4 @@
 - [`09-05`](./2022/0905/README.md) : Rust::Thread::Channel
 - [`09-06`](./2022/0906/README.md) : Rust::ETC, OS::Basic::{ Stack, Heap, .. }
 - [`09-07`](./2022/0907/README.md) : Rust::SmartPointer
+- [`09-08`](./2022/0908/README.md) : Rust::Function
