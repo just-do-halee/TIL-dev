@@ -15,3 +15,4 @@
 - [`09-07`](./2022/0907/README.md) : Rust::SmartPointer
 - [`09-08`](./2022/0908/README.md) : Rust::Function
 - [`09-14`](./2022/0914/README.md) : ETC::Mac
+- [`09-15`](./2022/0915/README.md) : Rust::Advanced, OS::Basic
