@@ -17,3 +17,4 @@
 - [`09-14`](./2022/0914/README.md) : ETC::Mac
 - [`09-15`](./2022/0915/README.md) : Rust::Advanced, OS::Basic
 - [`09-16`](./2022/0916/README.md) : Rust::Embedded
+- [`09-18`](./2022/0918/README.md) : Rust::SmartPointer, OS::Basic
