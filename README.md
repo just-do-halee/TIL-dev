@@ -18,3 +18,4 @@
 - [`09-15`](./2022/0915/README.md) : Rust::Advanced, OS::Basic
 - [`09-16`](./2022/0916/README.md) : Rust::Embedded
 - [`09-18`](./2022/0918/README.md) : Rust::SmartPointer, OS::Basic
+- [`09-19`](./2022/0919/README.md) : Network::Basic::{ Client_Server, OSI }
