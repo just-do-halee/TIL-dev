@@ -20,3 +20,4 @@
 - [`09-18`](./2022/0918/README.md) : Rust::SmartPointer, OS::Basic
 - [`09-19`](./2022/0919/README.md) : Network::Basic::{ Client_Server, OSI }
 - [`09-20`](./2022/0920/README.md) : OS::Basic::{ Stack, Heap }, Network::History
+- [`09-21`](./2022/0921/README.md) : Rust::Basic::{ SmartPointer, Reference }, OS::{ History, Linux }, Network::Basic, Git, CommandLineTools
