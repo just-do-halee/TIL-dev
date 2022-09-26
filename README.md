@@ -23,3 +23,4 @@
 - [`09-21`](./2022/0921/README.md) : Rust::Basic::{ SmartPointer, Reference }, OS::{ History, Linux }, Network::Basic, Git, CommandLineTools
 - [`09-22`](./2022/0922/README.md) : Rust::Basic::{ SmartPointer, .. }
 - [`09-23`](./2022/0923/README.md) : OS::Basic::Thread
+- [`09-26`](./2022/0926/README.md) : Rust::{ SmartPointer, Trait, Iterator }
