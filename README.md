@@ -26,3 +26,4 @@
 - [`09-26`](./2022/0926/README.md) : Rust::{ SmartPointer, Trait, Iterator }
 - [`09-27`](./2022/0927/README.md) : Economy::Basic, Cryptocurrency::{ Basic, SmartContract }, CommandLineTools
 - [`09-28`](./2022/0928/README.md) : Cryptocurrency::Ethereum::Account, Cryptography::Basic
+- [`09-29`](./2022/0929/README.md) : Mathematics::Algebra, Cryptography::Basic
