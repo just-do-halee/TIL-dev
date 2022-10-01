@@ -30,3 +30,4 @@
 - [`09-30`](./2022/0930/README.md) : Rust::Test,
   Cryptography::Basic,
   Network::Basic::DNS
+- [`10-01`](./2022/1001/README.md) : Network::P2P::Gossip
