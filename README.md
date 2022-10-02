@@ -4,6 +4,8 @@
 
 ## **_2022_**
 
+- [`10-02`](./2022/1002/README.md) : Network::Basic::{ Router,
+  Packet }, CommandLineTools
 - [`10-01`](./2022/1001/README.md) : Network::P2P::Gossip
 - [`09-30`](./2022/0930/README.md) : Rust::Test,
   Cryptography::Basic,
