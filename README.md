@@ -4,6 +4,7 @@
 
 ## **_2022_**
 
+- [`11-29`](./2022/1129/README.md) : Linux::ETC
 - [`11-26`](./2022/1126/README.md) : Linux::ETC
 - [`10-08`](./2022/1008/README.md) : CommandLineTools
 - [`10-07`](./2022/1007/README.md) : OS:Thread
