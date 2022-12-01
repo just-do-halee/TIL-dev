@@ -4,6 +4,7 @@
 
 ## **_2022_**
 
+- [`12-01`](./2022/1201/README.md) : Rust::Function
 - [`11-30`](./2022/1130/README.md) : Rust::Alloc::Vec
 - [`11-29`](./2022/1129/README.md) : Linux::ETC
 - [`11-26`](./2022/1126/README.md) : Linux::ETC
