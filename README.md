@@ -4,6 +4,7 @@
 
 ## **_2022_**
 
+- [`12-08`](./2022/1208/README.md) : Rust::Memory::Attribute
 - [`12-04`](./2022/1204/README.md) : Rust::IO::FileSystem
 - [`12-01`](./2022/1201/README.md) : Rust::Function
 - [`11-30`](./2022/1130/README.md) : Rust::Alloc::Vec
